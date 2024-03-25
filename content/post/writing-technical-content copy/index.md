@@ -1,6 +1,6 @@
 ---
 title: Writing technical content in Markdown-test
-date: 2019-07-12
+date: 2019-07-11
 math: true
 image:
   placement: 2
