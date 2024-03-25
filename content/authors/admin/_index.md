@@ -105,7 +105,7 @@ social:
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/Wang-qing-yang
+    link: https://github.com/wang-qingyang
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/
